@@ -1,4 +1,4 @@
-<scheme name="Solarized Light (David's modified version)" version="142" parent_scheme="Default">
+<scheme name="Solarized Light" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -611,11 +611,6 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ccffcc" />
-      </value>
-    </option>
-    <option name="OC.ENUM_CONST">
-      <value>
-        <option name="FOREGROUND" value="ad175b" />
       </value>
     </option>
     <option name="PROPERTIES.KEY">

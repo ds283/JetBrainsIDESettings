@@ -6,9 +6,8 @@
           <configuration CONFIG_NAME="Debug" />
         </configurations>
       </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
       </component>
     </defaultProject>
   </component>
