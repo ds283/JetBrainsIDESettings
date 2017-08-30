@@ -58,6 +58,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
+    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
     <option name="BRACE_STYLE" value="4" />
     <option name="CLASS_BRACE_STYLE" value="4" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
