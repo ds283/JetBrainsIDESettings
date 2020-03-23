@@ -17,6 +17,42 @@
     <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
     <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
     <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
+    <option name="NAMESPACES_NAMING_CONVENTION">
+      <value prefix="" style="PASCAL_CASE" suffix="" />
+    </option>
+    <option name="CLASSES_AND_STRUCTS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="ENUMS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="ENUMERATORS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="TYPEDEFS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="UNIONS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="METHODS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="FIELDS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="GLOBAL_FUNCTIONS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="GLOBAL_VARIABLES_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="PARAMETERS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="LOCAL_VARIABLES_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
   </Objective-C>
   <Objective-C-extensions>
     <file>
@@ -30,18 +66,6 @@
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
     </file>
-    <class>
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
-    </class>
-    <extensions>
-      <pair source="cpp" header="h" fileNamingConvention="NONE" />
-      <pair source="c" header="h" fileNamingConvention="NONE" />
-    </extensions>
   </Objective-C-extensions>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
