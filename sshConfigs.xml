@@ -3,6 +3,7 @@
     <configs>
       <sshConfig host="apollo.hpc.susx.ac.uk" id="e804df73-43ad-4669-bea4-cf9fbd5c8181" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="apollo.hpc.susx.ac.uk" nameFormat="CUSTOM" username="ds283" />
       <sshConfig host="apollo2.hpc.susx.ac.uk" id="56d32d65-92a7-4140-9be4-dc8ab14a852f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="apollo2.hpc.susx.ac.uk" nameFormat="CUSTOM" username="ds283" />
+      <sshConfig host="apollo2.hpc.susx.ac.uk" id="71f18174-caa8-4c94-b0d9-619caa090ff9" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="apollo2.hpc.susx.ac.uk" nameFormat="CUSTOM" username="ds283" />
     </configs>
   </component>
 </application>
