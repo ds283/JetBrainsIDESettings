@@ -1,15 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="a846c088-44b1-4aaa-8392-6de936fff70a" name="apollo.hpc.susx.ac.uk" url="http://apollo.hpc.susx.ac.uk">
-        <fileTransfer rootFolder="/mnt/pact/ds283" accessType="SFTP" sshConfigId="ef67a1df-d2e9-4a76-bca6-8b0c05c105ac" sshConfig="apollo.hpc.susx.ac.uk">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="a786f7c5-3c05-43dc-ab0d-7f7a4c4a12bb" name="apollo2.hpc.susx.ac.uk" url="http://apollo2.hpc.susx.ac.uk">
-        <fileTransfer accessType="SFTP" sshConfigId="ad54c2fe-eb4f-458f-8a12-25509e1d6fed" sshConfig="apollo2.hpc.susx.ac.uk">
+        <fileTransfer rootFolder="/mnt/pact/ds283" accessType="SFTP" host="apollo2.hpc.susx.ac.uk" port="22" sshConfigId="56d32d65-92a7-4140-9be4-dc8ab14a852f" sshConfig="apollo2.hpc.susx.ac.uk" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
