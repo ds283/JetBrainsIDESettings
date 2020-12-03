@@ -289,6 +289,54 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.f">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.fortran" />
+              <option name="myPluginName" value="Fortran" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.f03">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.fortran" />
+              <option name="myPluginName" value="Fortran" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.f08">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.fortran" />
+              <option name="myPluginName" value="Fortran" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.f90">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.fortran" />
+              <option name="myPluginName" value="Fortran" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.f95">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.fortran" />
+              <option name="myPluginName" value="Fortran" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.for">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.fortran" />
+              <option name="myPluginName" value="Fortran" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.fxml">
           <value>
             <plugin>
