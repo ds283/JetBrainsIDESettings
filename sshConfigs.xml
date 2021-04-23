@@ -1,10 +1,10 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="apollo.hpc.susx.ac.uk" id="7284d3f4-0348-4933-a95b-ffa3f45ddf40" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="apollo.hpc.susx.ac.uk" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="apollo.hpc.susx.ac.uk" id="7284d3f4-0348-4933-a95b-ffa3f45ddf40" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="apollo.hpc.susx.ac.uk" nameFormat="CUSTOM">
         <option name="customName" value="apollo.hpc.susx.ac.uk" />
       </sshConfig>
-      <sshConfig host="apollo2.hpc.susx.ac.uk" id="48a267c0-4eb1-4941-bc9e-cca9fd6cb8f0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="apollo2.hpc.susx.ac.uk" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="apollo2.hpc.susx.ac.uk" id="48a267c0-4eb1-4941-bc9e-cca9fd6cb8f0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="apollo2.hpc.susx.ac.uk" nameFormat="CUSTOM">
         <option name="customName" value="apollo2.hpc.susx.ac.uk" />
       </sshConfig>
     </configs>
