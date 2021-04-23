@@ -1,20 +1,11 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="a846c088-44b1-4aaa-8392-6de936fff70a" name="apollo.hpc.susx.ac.uk" url="http://apollo.hpc.susx.ac.uk">
-        <fileTransfer host="apollo.hpc.susx.ac.uk" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/mnt/pact/ds283" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="a786f7c5-3c05-43dc-ab0d-7f7a4c4a12bb" name="apollo2.hpc.susx.ac.uk" url="http://apollo2.hpc.susx.ac.uk">
-        <fileTransfer host="apollo2.hpc.susx.ac.uk" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/mnt/pact/ds283" accessType="SFTP" host="apollo2.hpc.susx.ac.uk" port="22" sshConfigId="56d32d65-92a7-4140-9be4-dc8ab14a852f" sshConfig="apollo2.hpc.susx.ac.uk" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
